@@ -13,7 +13,7 @@ export const experience: Experience[] = [
   {
     id: 1,
     role: "Frontend Developer Intern",
-    company: "XYZ Company",
+    company: "DIGIHELP IT SERVICES LLP",
     location: "Remote",
     duration: "Jan 2024 – Apr 2024",
     type: "Internship",
