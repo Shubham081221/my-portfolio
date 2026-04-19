@@ -29,4 +29,13 @@ export const projects: Project[] = [
     github: "https://github.com/yourhandle/weather-app",
     live: "https://weather-app.netlify.app",
   },
+  {
+    id: 3,
+    title: "GoSetle Invoicing",
+    description:
+      "SaaS invoicing platform enabling small businesses to generate quotes, track payments, and manage clients.",
+    tags: ["React", "TypeScript", "OpenWeather API", "Tailwind CSS"],
+    github: "https://github.com/yourhandle/go-setle-invoicing",
+    live: "https://go-setle-invoicing.netlify.app",
+  },
 ];
