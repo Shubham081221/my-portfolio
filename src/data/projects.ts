@@ -27,7 +27,7 @@ export const projects: Project[] = [
       "React + TypeScript weather app with live forecasts, location search, and a clean responsive UI. Deployed on Netlify.",
     tags: ["React", "TypeScript", "OpenWeather API", "Tailwind CSS"],
     github: "https://github.com/yourhandle/weather-app",
-    live: "https://weather-app.netlify.app",
+    live: "https://weatherapplication08.netlify.app/",
   },
   {
     id: 3,
