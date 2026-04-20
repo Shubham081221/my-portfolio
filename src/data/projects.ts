@@ -16,8 +16,8 @@ export const projects: Project[] = [
     description:
       "Full-stack leave management app with JWT auth, role-based access, drag-and-drop uploads, and a real-time dashboard.",
     tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
-    github: "https://github.com/yourhandle/kct-lms",
-    live: "https://kct-lms.vercel.app",
+    github: "https://github.com/Shubham081221/Task-Manager",
+    live: "https://taskmanager003.netlify.app/",
     featured: true,
   },
   {
@@ -35,7 +35,7 @@ export const projects: Project[] = [
     description:
       "SaaS invoicing platform enabling small businesses to generate quotes, track payments, and manage clients.",
     tags: ["React", "TypeScript", "OpenWeather API", "Tailwind CSS"],
-    github: "https://github.com/yourhandle/go-setle-invoicing",
-    live: "https://go-setle-invoicing.netlify.app",
+    github: "https://github.com/Shubham081221/Gosetle_Invoice",
+    live: "https://gosetleinvoice.netlify.app/",
   },
 ];
