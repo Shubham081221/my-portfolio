@@ -69,7 +69,7 @@ export default function Contact() {
                   <EmailIcon />
                 </div>
                 <div>
-                  <p className="text-xs text-gray-500 mb-0.5">Email</p>
+                  <p className="text-xs text-gray-500 mb-0.5">vijaybkarn2019@gmail.com</p>
                   <p className="text-sm font-medium text-gray-900">{socials.email}</p>
                 </div>
               </a>
@@ -85,7 +85,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 mb-0.5">LinkedIn</p>
-                  <p className="text-sm font-medium text-gray-900">linkedin.com/in/yourhandle</p>
+                  <p className="text-sm font-medium text-gray-900">https://www.linkedin.com/in/shubham-kumar-44b869249/</p>
                 </div>
               </a>
 
@@ -100,7 +100,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 mb-0.5">GitHub</p>
-                  <p className="text-sm font-medium text-gray-900">github.com/yourhandle</p>
+                  <p className="text-sm font-medium text-gray-900">https://github.com/Shubham081221</p>
                 </div>
               </a>
             </div>
