@@ -64,7 +64,7 @@ export default function Navbar() {
         {/* Resume CTA — Desktop */}
         
         <a
-          href="/Shubham_Resume.pdf"
+          href="https://drive.google.com/file/d/11DANrBK1NomvGbCcIfv8WvCCkxXM4Lq5/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden md:inline-flex items-center gap-2 text-sm font-medium px-4 py-2 rounded-lg bg-gray-900 text-white hover:bg-gray-700 transition-colors duration-200"

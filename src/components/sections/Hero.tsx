@@ -50,7 +50,7 @@ export default function Hero() {
             </Link>
             
             <a
-              href="/Shubham_Resume.pdf"
+              href="https://drive.google.com/file/d/11DANrBK1NomvGbCcIfv8WvCCkxXM4Lq5/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-lg border border-gray-300 text-gray-900 text-sm font-medium hover:bg-gray-50 transition-colors duration-200"

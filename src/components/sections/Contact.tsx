@@ -69,7 +69,7 @@ export default function Contact() {
                   <EmailIcon />
                 </div>
                 <div>
-                  <p className="text-xs text-gray-500 mb-0.5">vijaybkarn2019@gmail.com</p>
+                  <p className="text-xs text-gray-500 mb-0.5">Email</p>
                   <p className="text-sm font-medium text-gray-900">{socials.email}</p>
                 </div>
               </a>
